@@ -1,0 +1,69 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "welcome to the my blog",
+      "body": "this fisrt page article",
+      "tags": [
+        "backend",
+        "frontend",
+        "fullstack"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Article two",
+      "body": "this second page article",
+      "tags": [
+        "frontend",
+        "fullstack"
+      ]
+    },
+    {
+      "title": "test",
+      "body": "ini artikel test bung",
+      "tags": [
+        "hmtl",
+        "css"
+      ],
+      "id": 3
+    },
+    {
+      "title": "coba",
+      "body": "ini coba kedua",
+      "tags": [
+        "css",
+        "js",
+        "nodejs"
+      ],
+      "id": 4
+    },
+    {
+      "title": "yooo hooooo",
+      "body": "mantul",
+      "tags": [
+        "hore"
+      ],
+      "id": 5
+    },
+    {
+      "title": "check goll",
+      "body": "mantul lele",
+      "tags": [
+        "html",
+        "css"
+      ],
+      "id": 6
+    },
+    {
+      "title": "Mantap bentul",
+      "body": "Ini mantap betull",
+      "tags": [
+        "html",
+        "css",
+        "javascript"
+      ],
+      "id": 7
+    }
+  ]
+}
